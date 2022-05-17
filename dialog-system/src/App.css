@@ -31,7 +31,7 @@
   padding-left: 12.5%;
 }
 
-.circle-button{
+.close-button{
   height: 3em;
   width: 3em;
   padding-top: .75em;
@@ -40,10 +40,10 @@
   background-color: blueviolet;
   border-radius: 50%;
 }
-.circle-button:hover{
+.close-button:hover{
   color: black;
 }
-.fondo{
+.back-colored{
   height: 9em;
   width: 9em;
   text-align: center;
@@ -66,11 +66,11 @@
   text-align: center;
 }
 
-.borrar{
+.delete{
   color:white;
   background-color: blueviolet;
 }
-.cancelar{
+.cancel{
   color: blueviolet;
   border-style: solid;
   border-width: 2px;
